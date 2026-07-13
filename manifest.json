@@ -1,0 +1,9 @@
+{
+  "name": "Iron Notes Workout Tracker",
+  "short_name": "Iron Notes",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#111827",
+  "description": "A simple workout tracker for routines, sets, reps, PRs, and progressive overload."
+}
